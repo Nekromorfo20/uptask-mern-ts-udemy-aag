@@ -1,0 +1,24 @@
+=== Instrucciones para crear proyecto MERN - Uptask ===
+[Instrucciones para server]
+1.- Ejecutar comando "npm init --y" para inicializar el proyecto con los datos por defecto (Generar el archivo package.json)
+2.- Instalar libreria de manejo de backend express y sus types "npm i express" y "npm i -D @types/express"
+3.- Instalar libreria de revisión de cambios en NodeJs "npm i -D nodemon"
+4.- Instalar librerias de soporte de Typescript en NodeJS "npm i -D typescript ts-node"
+5.- Generar archivo tsconfig.json con la configuración requerida para comilar el proyecto (Revisar archivo "tsconfig.json").
+6.- Instalar libreria para coloreado de mensajes en terminal "npm i colors"
+7.- Instalar libreria de manejo de base de datos NoSQL para MongoDB "mongoose" "npm i mongoose"
+8.- Instalar libreria para manejo de archivos .env "npm i dotenv"
+
+[Instrucciones para client]
+
+=== Notas para proyecto ===
+[Anotaciones para server]
+1.- Datos de creación de cluster de MongoAtlas y conexión:
+= CUENTA =
+Username: root
+Password: wwyY42v1NKz1Jvb8
+= CONEXIÓN =
+mongodb+srv://root:wwyY42v1NKz1Jvb8@cluster0.aicf9el.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
+[Anotaciones para client]
